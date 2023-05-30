@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\MySpot.Api",
+    "\\src\\MySpot.Api\\Controllers"
   ],
-  "SelectedNode": "\\MySpot.sln",
+  "SelectedNode": "\\src\\MySpot.Api\\Controllers\\WeatherForecastController.cs",
   "PreviewInSolutionExplorer": false
 }
